@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arvind 👋
+Network & Security Engineer | SIEM Administrator | Ahmedabad, India
 
-<!--
-**avsuthar77/avsuthar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I secure and monitor enterprise networks, with hands-on experience
+supporting banking-sector clients.
 
-Here are some ideas to get you started:
+## What I work with
+- **SIEM:** Wazuh (deployment, custom decoders/rules, tuning)
+- **Firewalls:** Sophos XG, WatchGuard
+- **Logging:** rsyslog pipelines, log forwarding
+- **Automation:** Python, Bash, PowerShell
+- **Infra:** Active Directory, VMware ESXi, Zabbix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- Custom Wazuh decoders and rules for firewall logs
+- SOC automation scripts
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/arvind-suthar-1961a539a/)
