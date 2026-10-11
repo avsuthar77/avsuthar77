@@ -1,8 +1,7 @@
 # Hi, I'm Arvind 👋
 Network & Security Engineer | SIEM Administrator | Ahmedabad, India
 
-I secure and monitor enterprise networks, with hands-on experience
-supporting banking-sector clients.
+I secure and monitor enterprise networks, with hands-on experience.
 
 ## What I work with
 - **SIEM:** Wazuh (deployment, custom decoders/rules, tuning)
